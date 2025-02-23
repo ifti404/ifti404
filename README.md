@@ -8,6 +8,8 @@
 </div>
 
 ###
+![giphy](https://github.com/user-attachments/assets/3ddfd409-c443-4620-a295-d60a9d44dca4)
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -25,10 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-</div>
-
-<div align="right">
-![giphy](https://github.com/user-attachments/assets/bc515b1f-2119-4b69-afb4-3ec9141de3b6)
 </div>
 
 ###
