@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Md+Ifti;Studying+at+BUBT;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00F706&center=true&width=500&lines=Hello+Stranger!+%F0%9F%91%8B;I+am+Md+Ifti+%F0%9F%98%8E;A+Tech+Enthusiast+%F0%9F%A4%93;Currently%2C+I+am+studying+at+BUBT.+)](https://git.io/typing-svg)
 
 ###
 
