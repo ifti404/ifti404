@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/JyyUwsNClJDoI/giphy.gif?cid=ecf05e479j0dsff1d8clzcx18nt4ovfc4u3vy1fxkb6tqbyy&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+![giphy](https://github.com/user-attachments/assets/bc515b1f-2119-4b69-afb4-3ec9141de3b6)
+
 
 ###
 
