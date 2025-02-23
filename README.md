@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-![coder gif](https://github.com/user-attachments/assets/899a9817-a6b4-4fd1-989b-96bf4d627cb0/200/200)
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://github.com/user-attachments/assets/2f9dbba5-9ca9-4c3d-8d8f-9d3ff5794127)"  />
 
 
 ###
