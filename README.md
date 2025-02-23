@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src= "![coder gif](https://github.com/user-attachments/assets/611c5031-6cf1-4d4a-8cd6-a16f307a3bf5)" />
+<img align="right" height="150" src= "https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b76113jidoaeu2vv4zth0e0phdekvkoxsnqh7lom70mls&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 
 ###
