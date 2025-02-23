@@ -11,12 +11,9 @@
 
 <br clear="both">
 
-<img align="right" height="20" src= "https://media.giphy.com/media/McmEgVHMekWQ/giphy.gif?cid=790b7611p5eqa0gtmemu4bnqes0jy2ehrjpddp43nyendw5o&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-
-
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/McmEgVHMekWQ/giphy.gif?cid=790b7611p5eqa0gtmemu4bnqes0jy2ehrjpddp43nyendw5o&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="130" src="https://media.giphy.com/media/McmEgVHMekWQ/giphy.gif?cid=790b7611p5eqa0gtmemu4bnqes0jy2ehrjpddp43nyendw5o&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
