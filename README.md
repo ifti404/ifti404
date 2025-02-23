@@ -2,7 +2,9 @@
 
 ###
 
+<div align="center">
 ![giphy](https://github.com/user-attachments/assets/36c955ac-9425-408c-81aa-3a02e4b4fa63)
+</div>
 
 ###
 
