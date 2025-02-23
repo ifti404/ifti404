@@ -9,9 +9,7 @@
 
 ###
 
-<br clear="both">
-
-<img height="130" src="https://media.giphy.com/media/McmEgVHMekWQ/giphy.gif" alt="giphy gif" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
