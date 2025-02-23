@@ -8,7 +8,8 @@
 </div>
 
 ###
-![giphy](https://github.com/user-attachments/assets/3ddfd409-c443-4620-a295-d60a9d44dca4)
+![giphy (1)](https://github.com/user-attachments/assets/709be6b3-fc2a-4452-8f95-c04eb75d38d2)
+
 ###
 
 <div align="left">
