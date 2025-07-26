@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md Ifti</h1>
-<h3 align="center">Studying C.S.E at Bangladesh University of Business & Technology (BUBT)</h3>
+<h2 align="center">Studying C.S.E at Bangladesh University of Business & Technology (BUBT)</h2>
+
+###
+<h2 align="left">About me</h2>
+
+###
 
 - 🔭 I’m currently working on [Competitive Programming & Web Developement](https://github.com/ifti404/CodeForces)
 
