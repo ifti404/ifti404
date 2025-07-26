@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00F706&center=true&width=500&lines=Hello+Stranger!+%F0%9F%91%8B;I+am+Md+Ifti+%F0%9F%98%8E;A+Tech+Enthusiast+%F0%9F%A4%93;Currently%2C+I+am+studying+at+BUBT.+)](https://git.io/typing-svg)
+HI, I am Md Ifti, Studying at Bangladesh University Of Business And Technology
 
-###
 
-![giphy](https://github.com/user-attachments/assets/36c955ac-9425-408c-81aa-3a02e4b4fa63)
 
 ###
 
