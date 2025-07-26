@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++ & ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ifti404](https://github.com/ifti404)
+- 👨‍💻 All of my projects are available at [Github Repos](https://github.com/ifti404?tab=repositories)
 
 <p align="left">
 </p>
