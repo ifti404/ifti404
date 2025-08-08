@@ -64,11 +64,19 @@
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifti404&show_icons=true&theme=dark&locale=en" alt="ifti404" /></p>
-
-<br clear="both">
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ifti404&show_icons=true&theme=dark&locale=en" alt="ifti404" />
+</p>
 
 ###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ifti404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+###
+
+<br clear="both">
 <img src="https://raw.githubusercontent.com/ifti404/ifti404/output/snake.svg" alt="Snake animation" />
 
 ###
