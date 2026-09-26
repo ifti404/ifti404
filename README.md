@@ -5,9 +5,9 @@
 
 ###
 
-- 🔭 I’m currently working on [Competitive Programming & Web Developement](https://github.com/ifti404/CodeForces)
+- 🔭 I’m currently working on [Building Projects!](https://github.com/ifti404/CodeForces)
 
-- 🌱 I’m currently learning **Python, Java, Database**
+- 🌱 I’m currently learning **Python, Java, MySql**
 
 - 👨‍💻 All of my projects are available at [Github Repos](https://github.com/ifti404?tab=repositories)
 
